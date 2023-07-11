@@ -9,5 +9,5 @@ CREATE TABLE animals(
     weight_kg DECIMAL(10,2),
     PRIMARY KEY(id));
 
-/* Database schema to keep the structure of entire database. */
+--Day two
 ALTER TABLE animals ADD COLUMN species TEXT;
