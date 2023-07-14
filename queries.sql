@@ -86,9 +86,7 @@ LIMIT 1;
 
 --day 4
 --1--
-SELECT a.name
-FROM visits v
-JOIN animals a ON a.id = v.animal_id
+SELECT a.name FROM visits v JOIN animals a ON a.id = v.animal_id
 JOIN vets vt ON vt.id = v.vet_id
 WHERE vt.name = 'William Tatcher'
 ORDER BY v.visit_date DESC
