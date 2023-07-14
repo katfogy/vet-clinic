@@ -81,7 +81,7 @@ Clone the project.
 ```
 Go to the project directory.
 ```sh
- cd vet-clinic-database
+ cd vet-clinic
 ```
 In the project directory, run/ Excute each query in the following order:
 ```sh
@@ -91,9 +91,6 @@ In the project directory, run/ Excute each query in the following order:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Run tests
-No test
 
 <!-- AUTHORS -->
 
