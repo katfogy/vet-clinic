@@ -93,6 +93,7 @@ In the project directory, run/ Excute each query in the following order:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
+No test
 
 <!-- AUTHORS -->
 
