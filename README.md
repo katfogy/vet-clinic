@@ -62,29 +62,41 @@
 
 <!-- GETTING STARTED -->
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+you have to those tools in your local machine.
+-  PostgreSQL
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
+Clone the project.
 
 ```sh
   cd my-folder
- git clone https://github.com/Otegaa/vet-clinic.git
-  cd vet-clinic
+  git clone git@github.com:katfogy/vet-clinic.git
 ```
---->
-
+Go to the project directory.
+```sh
+ cd vet-clinic-database
+```
+In the project directory, run/ Excute each query in the following order:
+```sh
+  Excute schema.sql
+  Excute data.sql
+  Excute queries.sql
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤  **Foga Kater Amos**
 
