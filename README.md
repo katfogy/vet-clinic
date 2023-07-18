@@ -29,7 +29,7 @@
 ### Tech Stack <a name="tech-stack">Tech Stack PostgreSQL, pgAdmin</a>
 
 <details>
-  <summary>Databases</summary>
+  <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
